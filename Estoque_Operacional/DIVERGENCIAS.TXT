@@ -1,0 +1,7 @@
+Linha 4 – Venda nao finalizada
+Linha 7 – Venda nao finalizada
+Linha 9 – Venda cancelada
+Linha 10 – Erro desconhecido. Acionar equipe de TI.
+Linha 14 – Codigo do Produto nao encontrado 27440
+Linha 14 – Erro desconhecido. Acionar equipe de TI.
+Linha 20 – Codigo do Produto nao encontrado 31288
